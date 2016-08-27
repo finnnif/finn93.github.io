@@ -79,4 +79,4 @@ limit: 20
 deploy:
   type: git
   repo: git@github.com:sanking93/sanking93.github.io.git
-  branch: gh-pages
+  branch: master

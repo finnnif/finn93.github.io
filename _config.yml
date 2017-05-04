@@ -78,5 +78,5 @@ limit: 20
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:sanking93/sanking93.github.io.git
+  repo: git@github.com:finn93/finn93.github.io.git
   branch: master

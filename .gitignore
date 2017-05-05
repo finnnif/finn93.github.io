@@ -2,6 +2,9 @@
 Thumbs.db
 db.json
 *.log
+<<<<<<< HEAD
 node_modules/
+=======
+>>>>>>> 947f6e75a5c6fcdabe4c068fb203643d3a83fe06
 public/
 .deploy*
